@@ -1,0 +1,17 @@
+{
+    "slug":"presencial",
+    "title":"Formación académica",
+    "description":"Formación académica, grados de estudio e instituciones a las que asistí",
+    "items":[
+        {
+            "name":"Universidad Tecnologica de Emiliano Zapata",
+            "municipio":"",
+            "degree":"Ing. en Tecnologías de la Información",
+            "score":"9.9"
+        },{
+            "name":"Colegio Nacional de Educación Profesional Tecnica del Estado de Morelos Plantel Temixco",
+            "degree":"PTB en Informatica",
+            "score":"9.0"
+        }
+    ]
+}
